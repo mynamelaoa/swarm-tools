@@ -1,0 +1,7 @@
+debug-api-enable: true
+db-open-files-limit: 20000
+full-node: true
+verbosity: info
+global-pinning-enable: true
+gateway-mode: true
+network-id: 1
